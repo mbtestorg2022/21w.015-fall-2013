@@ -145,13 +145,66 @@ Revision is the heart and soul of this class. On first drafts, you'll receive am
 *   Essays 1 and 2 **_may_** be re-revised for the Portfolio.
 *   The grade for the re-revised writing assignment will replace the grade for the 2nd draft.
 
-| ASSIGNMENTS | GRADING DISTRIBUTIONS |
-| --- | --- |
-| Essay 1 | 20% |
-| Essay 2 | 25% |
-| Investigative Essay | 35% |
-| Oral Presentation | 10% |
-| Class Participation | 10% (including Workshopping) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+{{< thopen >}}
+GRADING DISTRIBUTIONS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Essay 1
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Essay 2
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Investigative Essay
+{{< tdclose >}}
+{{< tdopen >}}
+35%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Oral Presentation
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class Participation
+{{< tdclose >}}
+{{< tdopen >}}
+10% (including Workshopping)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Late Drafts
 -----------
